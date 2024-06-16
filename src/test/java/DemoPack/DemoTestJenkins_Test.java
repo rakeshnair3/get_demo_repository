@@ -14,6 +14,9 @@ public class DemoTestJenkins_Test {
 			WebDriver wd=new ChromeDriver();
 			wd.manage().window().maximize();
 			
+			System.out.println("1st update");
+			System.out.println("2nd update");
+			
 			Thread.sleep(5000);
 			wd.quit();
 		}
