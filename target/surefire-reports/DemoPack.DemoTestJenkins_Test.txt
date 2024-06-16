@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: DemoPack.DemoTestJenkins_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.28 s - in DemoPack.DemoTestJenkins_Test
